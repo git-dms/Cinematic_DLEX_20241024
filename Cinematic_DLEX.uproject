@@ -21,10 +21,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/0a6b04bd9ae64d6dadd81c42a391c8f1"
 		},
 		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
 		}
